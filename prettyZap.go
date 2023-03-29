@@ -1,4 +1,4 @@
-package prettyZap
+package github.com/log/prettyZap
 
 import (
 	"fmt"
